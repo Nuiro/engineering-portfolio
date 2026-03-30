@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mechanical engineering student showcasing CAD projects, design work, 
     and hands-on builds. Experienced with SolidWorks and Arduino, 
       with a focus on practical engineering solutions and real-world problem solving.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/engineering-portfolio" # the subpath of your site, e.g. /blog
+url: "https://nuiro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Nuiro
 linkedin_username: nour-albalout
 
