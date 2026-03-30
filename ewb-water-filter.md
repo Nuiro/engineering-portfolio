@@ -25,14 +25,14 @@ Gained experience in leadership and teamwork while working on a real-world probl
 ## Media  
 <div class="project-gallery">
 
-<a href="/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_20_01_28_IMG_9851.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_20_01_28_IMG_9851.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_20_01_28_IMG_9852.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_20_01_28_IMG_9852.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_04_30_11_51_IMG_9774.JPG" target="_blank"><img src="/assets/images/ewb/2025_04_30_11_51_IMG_9774.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_04_30_11_56_IMG_9775.JPG" target="_blank"><img src="/assets/images/ewb/2025_04_30_11_56_IMG_9775.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_06_10_14_IMG_9784.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_06_10_14_IMG_9784.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_06_10_14_IMG_9785.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_06_10_14_IMG_9785.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_20_01_28_IMG_9847.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_20_01_28_IMG_9847.JPG" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/ewb/2025_05_20_01_28_IMG_9848.JPG" target="_blank"><img src="/assets/images/ewb/2025_05_20_01_28_IMG_9848.JPG" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9851.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9851.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9852.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9852.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_04_30_11_51_IMG_9774.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_04_30_11_51_IMG_9774.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_04_30_11_56_IMG_9775.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_04_30_11_56_IMG_9775.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_06_10_14_IMG_9784.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_06_10_14_IMG_9784.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_06_10_14_IMG_9785.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_06_10_14_IMG_9785.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9847.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9847.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9848.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9848.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
 
 <div class="project-gallery">

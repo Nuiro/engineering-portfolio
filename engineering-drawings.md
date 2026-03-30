@@ -26,8 +26,9 @@ Improved my ability to communicate designs through technical drawings, including
 
 <div class="project-gallery">
 
-<a href="/assets/images/drawings/Third-angle.jpg" target="_blank"><img src="/assets/images/drawings/Third-angle.jpg" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/drawings/Isometric.jpg" target="_blank"><img src="/assets/images/drawings/Isometric.jpg" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/drawings/Oblique.jpg" target="_blank"><img src="/assets/images/drawings/Oblique.jpg" alt="SolidWorks practice 1"></a>
+
+<a href="{{ '/assets/images/drawings/Third-angle.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/images/drawings/Third-angle.jpg' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/drawings/Isometric.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/images/drawings/Isometric.jpg' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/drawings/Oblique.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/images/drawings/Oblique.jpg' | relative_url }}" alt="SolidWorks practice 1"></a>
 
 </div>

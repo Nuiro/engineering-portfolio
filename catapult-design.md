@@ -27,7 +27,9 @@ Gained experience in collaborative engineering design, including idea generation
 <div class="project-gallery">
 
 
-<a href="/assets/images/catapult/IMG_3295.JPG" target="_blank"><img src="/assets/images/catapult/IMG_3295.JPG" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/catapult/IMG_3295.JPG' | relative_url }}"
+
+ target="_blank"><img src="{{ '/assets/images/catapult/IMG_3295.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
 
 
 <div class="project-gallery">
