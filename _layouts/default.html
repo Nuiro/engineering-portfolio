@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+
+    <header class="site-header">
+  <div class="wrapper header-row">
+
+    <div class="header-left">
+      <a class="site-title" href="{{ "/" | relative_url }}">
+        {{ site.title }}
+      </a>
+
+      <button onclick="toggleTheme()" class="theme-toggle" id="theme-toggle-btn">
+        🌙 Dark Mode
+      </button>
+    </div>
+
+    <nav class="site-nav custom-nav">
+      <a class="page-link" href="/about/">About</a>
+
+      <div class="dropdown">
+        <a class="page-link dropdown-toggle" href="/projects/">Projects ▾</a>
+        <div class="dropdown-content">
+          <a href="/home-subwoofer/">Home Subwoofer</a>
+          <a href="/arduino-circuits/">Arduino Circuits</a>
+          <a href="/ewb-water-filter/">EWB Water Filter</a>
+          <a href="/catapult-design/">Catapult Design</a>
+          <a href="/solidworks-practice/">SolidWorks Practice</a>
+          <a href="/engineering-drawings/">Engineering Drawings</a>
+        </div>
+      </div>
+
+      <a class="page-link" href="/contact/">Contact</a>
+    </nav>
+
+  </div>
+</header>
+
+
+
+
+    <main class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script>
+      function toggleTheme() {
+        const body = document.body;
+        const button = document.getElementById("theme-toggle-btn");
+
+        body.classList.toggle("dark-mode");
+
+        if (body.classList.contains("dark-mode")) {
+          button.innerHTML = "☀️ Light Mode";
+        } else {
+          button.innerHTML = "🌙 Dark Mode";
+        }
+      }
+    </script>
+
+  </body>
+</html>

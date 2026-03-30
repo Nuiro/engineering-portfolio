@@ -1,0 +1,242 @@
+---
+---
+
+@import "minima";
+
+/* Toggle button (light mode) */
+.theme-toggle {
+  background-color: #222 !important;
+  color: #ffffff !important;
+  padding: 6px 5px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1.2;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.theme-toggle:hover {
+  background-color: #333 !important;
+  transform: translateY(-1px);
+}
+
+/* Dark mode version */
+body.dark-mode .theme-toggle {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+body.dark-mode .theme-toggle:hover {
+  background-color: #e6e6e6 !important;
+}
+
+/* Global dark mode */
+body.dark-mode {
+  background: #0f1115;
+  color: #e6e6e6;
+}
+
+body.dark-mode .theme-toggle {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+/* Force titles + headings to white */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+  color: #ffffff !important;
+}
+
+/* Site title (top left) */
+body.dark-mode .site-title {
+  color: #ffffff !important;
+}
+
+/* Nav links */
+body.dark-mode .site-nav a {
+  color: #ffffff !important;
+}
+
+body.dark-mode .site-nav a:hover {
+  color: #8ab4ff !important;
+}
+
+
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 200px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  z-index: 10;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 10px 14px;
+  color: #000;
+  text-decoration: none;
+}
+
+.dropdown-content a:hover {
+  background-color: #f2f2f2;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Dark mode */
+body.dark-mode .dropdown-content {
+  background-color: #1a1d24;
+}
+
+body.dark-mode .dropdown-content a {
+  color: #fff;
+}
+
+body.dark-mode .dropdown-content a:hover {
+  background-color: #2a2f38;
+}
+
+
+/* Header layout */
+.header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: nowrap;
+}
+
+.site-title {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.custom-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.custom-nav .page-link {
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 220px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  z-index: 1000;
+  padding: 6px 0;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 10px 14px;
+  color: #000;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dropdown-content a:hover {
+  background: #f2f2f2;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Button tidy */
+.theme-toggle {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* Dark mode dropdown */
+body.dark-mode .dropdown-content {
+  background: #1a1d24;
+}
+
+body.dark-mode .dropdown-content a {
+  color: #ffffff;
+}
+
+body.dark-mode .dropdown-content a:hover {
+  background: #2a2f38;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .header-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .custom-nav {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+}
+
+
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.project-gallery img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-gallery img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.18);
+}
