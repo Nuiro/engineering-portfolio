@@ -13,10 +13,10 @@ Hi, I’m Nour, a first-year mechanical engineering student with a strong intere
 This portfolio showcases my university work, personal projects, and ongoing engineering development.
 
 ## Featured Projects
-- [EWB Water Filter Project](/ewb-water-filter/)  
-- [Catapult Design Project](/catapult-design/)  
-- [SolidWorks Practice](/solidworks-practice/)  
-- [Home Subwoofer Setup](/home-subwoofer/)  
+- [EWB Water Filter Project]({{ '/ewb-water-filter/' | relative_url }})  
+- [Catapult Design Project]({{ '/catapult-design/' | relative_url }})  
+- [SolidWorks Practice]({{ '/solidworks-practice/' | relative_url }})  
+- [Home Subwoofer Setup]({{ '/home-subwoofer/' | relative_url }})  
 
 ## Skills
 - SolidWorks  

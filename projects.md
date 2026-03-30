@@ -6,12 +6,14 @@ permalink: /projects/
 
 # Projects
 
+
+
 <div class="projects-grid">
 
   <div class="project-card">
-    <a href="/home-subwoofer/" class="project-link">
+    <a href="{{ '/home-subwoofer/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/subwoofer/2025_07_16_19_07_IMG_0205.JPG" class="project-image">
+        <img src="{{ '/assets/images/subwoofer/2025_07_16_19_07_IMG_0205.JPG' | relative_url }}" class="project-image">
       </div>
       <h3>Home Subwoofer Setup</h3>
     </a>
@@ -19,9 +21,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <a href="/arduino-circuits/" class="project-link">
+    <a href="{{ '/arduino-circuits/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/arduino/2025_08_01_20_59_IMG_0350.JPG" class="project-image">
+        <img src="{{ '/assets/images/arduino/2025_08_01_20_59_IMG_0350.JPG' | relative_url }}" class="project-image">
       </div>
       <h3>Arduino Circuits</h3>
     </a>
@@ -29,9 +31,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <a href="/ewb-water-filter/" class="project-link">
+    <a href="{{ '/ewb-water-filter/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG" class="project-image">
+        <img src="{{ '/assets/images/ewb/2025_05_20_01_28_IMG_9849.JPG' | relative_url }}" class="project-image">
       </div>
       <h3>EWB Water Filter Project</h3>
     </a>
@@ -39,9 +41,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <a href="/catapult-design/" class="project-link">
+    <a href="{{ '/catapult-design/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/catapult/IMG_3295.JPG" class="project-image">
+        <img src="{{ '/assets/images/catapult/IMG_3295.JPG' | relative_url }}" class="project-image">
       </div>
       <h3>Catapult Design Project</h3>
     </a>
@@ -49,9 +51,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <a href="/solidworks-practice/" class="project-link">
+    <a href="{{ '/solidworks-practice/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/solidworks/Screenshot 2026-03-30 182949.png" class="project-image">
+        <img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182949.png' | relative_url }}" class="project-image">
       </div>
       <h3>SolidWorks Practice</h3>
     </a>
@@ -59,9 +61,9 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <a href="/engineering-drawings/" class="project-link">
+    <a href="{{ '/engineering-drawings/' | relative_url }}" class="project-link">
       <div class="project-image-wrap">
-        <img src="/assets/images/drawings/Isometric.JPG" class="project-image">
+        <img src="{{ '/assets/images/drawings/Isometric.JPG' | relative_url }}" class="project-image">
       </div>
       <h3>Engineering Drawings</h3>
     </a>
@@ -69,6 +71,10 @@ permalink: /projects/
   </div>
 
 </div>
+
+
+
+
 
 <style>
 /* make page wider */
