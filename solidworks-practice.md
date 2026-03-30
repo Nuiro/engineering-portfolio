@@ -28,24 +28,24 @@ Improving accuracy and speed in CAD modelling while developing a stronger unders
 
 <div class="project-gallery">
 
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182738.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182738.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182748.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182748.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182840.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182840.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182848.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182848.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182902.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182902.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182914.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182914.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182931.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182931.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182949.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182949.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182314.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182314.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182334.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182334.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182356.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182356.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182408.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182408.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182420.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182420.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182431.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182431.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182438.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182438.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182446.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182446.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182639.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182639.png" alt="SolidWorks practice 1"></a>
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182651.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182651.png" alt="SolidWorks practice 1">
-<a href="/assets/images/solidworks//Screenshot 2026-03-30 182659.png" target="_blank"><img src="/assets/images/solidworks//Screenshot 2026-03-30 182659.png" alt="SolidWorks practice 1">
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182738.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182738.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182748.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182748.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182840.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182840.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182848.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182848.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182902.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182902.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182914.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182914.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182931.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182931.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182949.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182949.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182314.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182314.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182334.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182334.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182356.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182356.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182408.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182408.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182420.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182420.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182431.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182431.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182438.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182438.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182446.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182446.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182639.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182639.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182651.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182651.png' | relative_url }}" alt="SolidWorks practice 1"></a>
+<a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182659.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182659.png' | relative_url }}" alt="SolidWorks practice 1"></a>
 
-</div>
+<div class="project-gallery">

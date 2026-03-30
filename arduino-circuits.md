@@ -51,4 +51,4 @@ Built a strong understanding of circuit fundamentals, including voltage division
 <a href="{{ '/assets/images/arduino/2025_09_05_20_16_IMG_0704.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/arduino/2025_09_05_20_16_IMG_0704.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
 <a href="{{ '/assets/images/arduino/2025_09_05_22_38_IMG_0711.JPG' | relative_url }}" target="_blank"><img src="{{ '/assets/images/arduino/2025_09_05_22_38_IMG_0711.JPG' | relative_url }}" alt="SolidWorks practice 1"></a>
 
-</div>
+<div class="project-gallery">
