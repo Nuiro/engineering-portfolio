@@ -240,3 +240,44 @@ body.dark-mode .dropdown-content a:hover {
   transform: scale(1.02);
   box-shadow: 0 12px 28px rgba(0,0,0,0.18);
 }
+
+
+@media (max-width: 700px) {
+
+  /* stack header nicely */
+  .header-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  /* title + button spacing */
+  .header-left {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  /* allow title to wrap instead of squishing */
+  .site-title {
+    white-space: normal;
+    line-height: 1.3;
+    font-size: 18px;
+  }
+
+  /* nav spacing */
+  .custom-nav {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  /* make nav links slightly smaller */
+  .custom-nav .page-link {
+    font-size: 14px;
+  }
+
+  /* make button fit better */
+  .theme-toggle {
+    font-size: 13px;
+    padding: 5px 10px;
+  }
+}
