@@ -64,20 +64,38 @@
 
     {% include footer.html %}
 
-    <script>
-      function toggleTheme() {
-        const body = document.body;
-        const button = document.getElementById("theme-toggle-btn");
+ <script>
+  function applyTheme() {
+    const body = document.body;
+    const button = document.getElementById("theme-toggle-btn");
+    const savedTheme = localStorage.getItem("theme");
 
-        body.classList.toggle("dark-mode");
+    if (savedTheme === "dark") {
+      body.classList.add("dark-mode");
+      if (button) button.innerHTML = "☀️ Light Mode";
+    } else {
+      body.classList.remove("dark-mode");
+      if (button) button.innerHTML = "🌙 Dark Mode";
+    }
+  }
 
-        if (body.classList.contains("dark-mode")) {
-          button.innerHTML = "☀️ Light Mode";
-        } else {
-          button.innerHTML = "🌙 Dark Mode";
-        }
-      }
-    </script>
+  function toggleTheme() {
+    const body = document.body;
+    const button = document.getElementById("theme-toggle-btn");
+
+    body.classList.toggle("dark-mode");
+
+    if (body.classList.contains("dark-mode")) {
+      localStorage.setItem("theme", "dark");
+      if (button) button.innerHTML = "☀️ Light Mode";
+    } else {
+      localStorage.setItem("theme", "light");
+      if (button) button.innerHTML = "🌙 Dark Mode";
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", applyTheme);
+</script>
 
   </body>
 </html>
