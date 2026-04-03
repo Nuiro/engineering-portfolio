@@ -28,6 +28,21 @@ Improving accuracy and speed in CAD modelling while developing a stronger unders
 
 <div class="project-gallery">
 
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.9.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.9.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.10.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.10.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.11.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.11.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.12.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.12.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.13.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.13.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.14.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.14.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.15.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.15.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.16.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.16.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.17.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.17.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.18.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.18.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.19.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.19.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 1.20.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 1.20.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 2.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 2.1.png' | relative_url }}" alt="SolidWorks practice"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 2.2.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 2.2.png' | relative_url }}" alt="SolidWorks practice"></a>
+
 <a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182738.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182738.png' | relative_url }}" alt="SolidWorks practice 1"></a>
 <a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182748.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182748.png' | relative_url }}" alt="SolidWorks practice 1"></a>
 <a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182840.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182840.png' | relative_url }}" alt="SolidWorks practice 1"></a>
