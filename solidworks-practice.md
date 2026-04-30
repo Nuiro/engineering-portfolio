@@ -91,4 +91,13 @@ Improving accuracy and speed in CAD modelling while developing a stronger unders
 <a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182651.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182651.png' | relative_url }}" alt="SolidWorks practice 1"></a>
 <a href="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182659.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Screenshot 2026-03-30 182659.png' | relative_url }}" alt="SolidWorks practice 1"></a>
 
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.1"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.2"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.3"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.4"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.5"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.6"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.7"></a>
+<a href="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" target="_blank"><img src="{{ '/assets/images/solidworks/Practice Problem 3.1.png' | relative_url }}" alt="SolidWorks practice problem 3.8"></a>
+
 <div class="project-gallery">
